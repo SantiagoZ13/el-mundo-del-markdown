@@ -2,7 +2,16 @@
 Systems engineering student and frontend developer who has experience in technologies such as linux, command terminal, html, css, javascript, react and figma.
 ## And I'm passionate about technology
 I enjoy learning ⚡ and hope to get the most out of this Bootcamp.
-
+###  my programming languages and tools
+* Linux
+* Markdown
+* Terminal
+* HTML
+* CSS 
+* Javascript
+* Java
+* Figma
+* Canva
 ### My favorite commands:
 | Command |            Description             |
 |---------|------------------------------------|
